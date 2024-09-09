@@ -1,0 +1,15 @@
+# Node modules
+node_modules/
+dist/
+build/
+*.log
+*.lock
+.DS_Store
+
+# Typescript
+*.tsbuildinfo
+
+# Ignore IDE specific files
+.vscode/
+.idea/
+*.iml
